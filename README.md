@@ -6,4 +6,4 @@ MySQL Workbench
 Tableau Public
 
 Live Demo
-view Project Details on Tableau Public
+[view Project Details on Tableau Public] https://public.tableau.com/app/profile/zhongwei
